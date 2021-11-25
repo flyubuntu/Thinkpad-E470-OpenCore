@@ -1,6 +1,6 @@
 # Thinkpad-E470-OpenCore
 
-联想Thinkpad-E470的黑苹果EFI，OpenCore版本0.75
+联想Thinkpad-E470的黑苹果EFI，OpenCore版本0.7.5
 
 参考教程：[OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
