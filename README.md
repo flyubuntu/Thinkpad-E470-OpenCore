@@ -2,6 +2,8 @@
 
 联想Thinkpad-E470的黑苹果EFI，OpenCore版本0.75
 
+参考教程：[OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
+
 ## 电脑配置
 
 - CPU: Intel i5 7200U
